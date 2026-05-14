@@ -1,0 +1,15 @@
+cat << 'EOF' > .gitignore
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.DS_Store
+*.egg-info/
+dist/
+build/
+data/
+model/
+.Rhistory
+table1.html
+orlana.py
+EOF
