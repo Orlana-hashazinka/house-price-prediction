@@ -1,5 +1,9 @@
 # 🏡 HousePricePredictor
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://house-price-prediction-quorc9s7ox3g62jbxhumes.streamlit.app/)
+
+🚀 **Demo live** : [house-price-prediction.streamlit.app](https://house-price-prediction-quorc9s7ox3g62jbxhumes.streamlit.app/)
+
 Prédiction du prix de vente de maisons à partir de leurs caractéristiques, basée sur le dataset **Ames Housing** (Kaggle). Le projet compare six modèles de régression optimisés via **optimisation bayésienne (BayesSearchCV)** et expose les résultats dans une application **Streamlit** interactive.
 
 ---
@@ -89,7 +93,7 @@ Sauvegarde Joblib + Application Streamlit
 ### 1. Cloner le dépôt
 
 ```bash
-git clone https://github.com/<your-username>/HousePricePrediction.git
+git clone https://github.com/Orlana-hashazinka/house-price-prediction.git
 cd HousePricePrediction
 ```
 
