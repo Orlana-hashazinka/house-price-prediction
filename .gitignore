@@ -8,7 +8,6 @@ __pycache__/
 dist/
 build/
 data/
-model/
 .Rhistory
 table1.html
 orlana.py
